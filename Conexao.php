@@ -33,7 +33,8 @@ class Conexao{
             self::$instance = null;
         }
     }
-    
+
 }
 
+echo "nova alteracao";
 ?>
